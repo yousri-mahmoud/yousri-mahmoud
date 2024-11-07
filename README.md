@@ -87,5 +87,10 @@ Feel free to reach out to me via my [email](mailto:yousri.mahmoud.dev@gmail.com)
 
 ---
 
+## My CV
+You can view my CV [here](https://github.com/yousri-mahmoud/yousri-mahmoud/blob/main/Yousri_Mahmoud_CV.pdf).
+
+---
+
 Let's connect and build something amazing! 😊
 
